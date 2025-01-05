@@ -398,3 +398,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/glTF-Generator/out/build/x64-debug/_deps/argparse-subbuild
+/glTF-Generator/out/build/x64-debug/CMakeFiles
+/glTF-Generator/out/build/x64-debug
